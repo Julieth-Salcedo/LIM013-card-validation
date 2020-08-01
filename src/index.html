@@ -1,14 +1,157 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="es">
+
+
+<head>
     <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suscripcion con prueba gratis mediante validacion de tarjeta de credito </title>
+    <meta name="description" content="aplicacion que permitira al usuario suscribirse ingresando su tarjeta de credito
+    y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros de tecnologia.">
+    <link rel="stylesheet" href="style.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
   </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<body>
+  
+  <div id="layout1" class="display">
+    
+    <header class="layout1-header">
+      <p class="layout1-header_logo">MyBook</p>
+      <ul class="layout1-header_lista">
+        <li class="layout1-header_listaitem">Inicia Sesion</li>
+      </ul>
+    </header>
+    
+    <main class="layout1-main">
+      
+      <section id="layout1-section1" class="display">
+      <img class="layout1-section1_imagen" src="/src/images/bann.png" alt="" title="">
+      </section>
+      
+      <section id="layout1-section2" class="display">
+        <h1 class="layout1-section2_titulo1">Bienvenidos a MyBook</h1>
+        <p class="layout1-section2_parrafo1"> Ahora podras disfrutar de los mejores<br>
+        libros de tecnologia con nuestro catalogo<br>
+        actualizado. Suscribete por USD2.00 al mes.<br>
+        Cancela cuando quieras.</p>
+        <input type="button" id="btn1" class="layout1-section2_btn1" value="Empieza tu prueba gratis de 7 dias">
+        <p class="layout1-section2_parrafo2">La suscripcion se renueva por USD 2.00/mes</p>
+      </section>
+
+    </main>
+
+  </div> 
+  
+
+  <div id="layout2" class="hidden">
+    
+    <header class="layout2-header">
+        <img class="layout2-header_imagen" src="/src/images/bann.png" alt="" title="">
+        <p class="layout2-header_logo">MyBook</p>
+        <p class="layout2-header_parrafo1">Empieza tu prueba gratis de 7 dias<br>
+        <span class="layout2-header_parrafo1_span1">Renueva por US$2.00/mes, cancela cuando quieras</span></p>
+    </header>
+
+    <main class="layout2-main">
+
+      <section id="layout2-section1" class="hidden">
+        <img class="layout2-section1_imagen" src="/src/images/error.jpg" alt="" title="">
+        <p class="layout2-section1_parrafo1">Problema de suscripcion<br>
+        <span class="layout2-section1_span1">Existe un problema con el metodo de pago. Intentalo otra vez.</span></p>
+      </section>
+      
+      <section id="layout2-section2" class="display">
+        <h2 class="layout2-section2_titulo2">Agregar un metodo de pago</h2>
+
+        <div class="layout2-section2_box1">
+          <img class="layout2-section2_box1_imagen" src="/src/images/visa.jpg" alt="" title="">
+          <p class="layout2-section2_parrafo1">Tarjetas de credito/debito<br>
+          MyBook acepta las principales<br>
+          tarjetas de credito/debito</p>
+        </div>
+      </section>
+
+      <section id="layout2-section3" class="display">
+        <h2 class="layout2-section3_titulo2">Indica informacion de la tarjeta</h2>
+
+        <div class="layout2-section3_box1">
+          <form>
+            <label class="layout2-section3_box1_label1" for="name1">Nombre y apellidos</label><br>
+            <input type="text" id="name1" class="layout2-section3_box1_input1"><br>
+
+            <label class="layout2-section3_box1_label1" for="name2">Nombre en la tarjeta</label><br>
+            <input type="text" id="name2" class="layout2-section3_box1_input1"><br>
+
+            <label class="layout2-section3_box1_label1" for="num" >Numero de la tarjeta</label><br>
+            <input type="text" id="num" class="layout2-section3_box1_input1"  placeholder="Ej.4083952015263" maxlength="16" required><br>
+            <p id="warm" class="layout2-section3_box1_parrafo3"></p>
+            
+            <label class="layout2-section3_box1_label1" for="date">Fecha de vencimiento</label><br>
+              <select id="date-month" class="layout2-section3_box1_select1">
+                <option value="value1">Enero</option>
+                <option value="value2">Febrero</option>
+                <option value="value3">Marzo</option>
+                <option value="value4">Abril</option>
+                <option value="value5">Mayo</option>
+                <option value="value6">Junio</option>
+                <option value="value7">Julio</option>
+                <option value="value8">Agosto</option>
+                <option value="value9">Setiembre</option>
+                <option value="value10">Octubre</option>
+                <option value="value11">Noviembre</option>
+                <option value="value11">Diciembre</option>
+              </select>
+              <select id="date-year" class="layout2-section3_box1_select1">
+                <option value="value1">2020</option>
+                <option value="value2">2021</option>
+                <option value="value3">2022</option>
+                <option value="value4">2024</option>
+              </select><br><br>
+
+            <input type="button" id="btn2" class="layout2-section3_box1_btn2" value="Continuar">
+            <p id="result" class="layout2-section3_box1_parrafo4"></p>
+          </form>
+        </div> 
+      </section>
+
+    </main>  
+
+  </div>
+
+
+  <div id="layout3" class="hidden">
+    <header class="layout3-header">
+      <a id="link1" href="" class="layout3-header_link1">MyBook</a>
+
+      <ul class="layout3-header_lista">
+        <li id="hello" class="layout3-header_listaItem">Hola </li>
+      </ul>
+    </header>
+    
+    <main class="layout3-main">
+      
+      <section id="layout3-section1" class="display">
+        <img class="layout3-section1_imagen" src="/src/images/port.png" alt="" title="">
+      </section>
+
+      <section id="layout3-section2" class="display">
+        <h3 class="layout3-section2_titulo3">Principales géneros</h3>
+
+        <div class="layout3-section2_box1">
+          <button class="layout3-section2_box1_btn1">Experiencia de<br> usuario (UX)</button>
+          <button class="layout3-section2_box1_btn1">Interfaz de<br> usuario (UI)</button>
+          <button class="layout3-section2_box1_btn1">HTML Semantica<br> CSS Selectores</button>
+          <button class="layout3-section2_box1_btn1">Javascript<br>DOM</button>
+        </div>
+      </section>
+
+    </main>
+  </div> 
+
+
+  <script src="index.js" type="module"></script> 
+</body>
+
 </html>
