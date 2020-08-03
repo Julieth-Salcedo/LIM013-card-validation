@@ -14,7 +14,6 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 ### Resumen del proyecto
 <div style="text-align: justify">Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros de tecnología.</div>
 
-
 [Planning del proyecto](https://trello.com/b/EwSvpk9O/lim013-card-validation)
 
 
@@ -42,6 +41,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 <div style="text-align: justify"> Definir una paleta de colores que serán parte de la guía de estilo. La elección de un color destacado más una gama de colores neutros. Lo que permite que nuestros botones, o la llamada de acción con un color destacado sea visible a primera vista y llame justamente a la acción, que sean otras palabras intuitivos. </div>
 
+
 * <div style="text-align: justify">Acción: elaboración de una guía de estilo donde se define paletas de colores, tipografía y estilo de los botones antes de iniciar el diseño de interfaz de usuario </div>
 
 * [Sistema de diseño UX: Guia de estilo](src\documents\LIM013-card-validation-guia-de-estilos.pdf)
@@ -50,6 +50,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 [  ] *__Mensaje de error__*
 
 <div style="text-align: justify"> Explicar claramente al usuario por medio de un mensaje de error el porque se produjó un problema o error, ya sea en cuanto a ingresar un campo vacio en el espacio para ingresar el numero de tarjeta o cuando una tarjeta se declara invalida, es correcto explicar que ocurre, cual es el error y pasos para su solucion. 
+
 
 * <div style="text-align: justify">Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente. </div>
 
