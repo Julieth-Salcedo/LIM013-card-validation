@@ -66,7 +66,7 @@ function btnclick2(){
                        
             document.getElementById("layout2-section1").classList.add("display");
             document.getElementById("layout2-section1").classList.remove("hidden");
-            
+
             warm.innerHTML="";
             // result.innerHTML="tarjeta invalida";
             return false;
