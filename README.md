@@ -11,19 +11,19 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 
 >### Resumen del proyecto
-<div style="text-align: justify"> Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito/debito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros de tecnología. </div>
+<div style="text-align: justify">Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros de tecnología.</div>
 
 [Planning del proyecto](https://trello.com/b/EwSvpk9O/lim013-card-validation)
 
 
 >### Investigación UX
 
-  #### <div style="text-align: justify"> 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto. </div>
+  #### 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto. 
   
   <div style="text-align: justify"> Los usuarios son mujeres como nosotras, que son parte de Laboratoria u otro pograma de educación que establece una cultura de autoaprendizaje, donde se busca recursos, libros y cuanto material de calidad nos ayude a lograr precisamente aquellos objetivos de aprendizaje que nos planteamos para lograr nuestro desarrollo profesional como programadoras. </div>
 
   
-  #### <div style="text-align: justify"> 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios. </div>
+  #### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios. 
   <div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div>
 
   
@@ -31,7 +31,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
   [Primer prototipo en papel](src\documents\LIM013-card-validation-prototipo-papel.pdf)
 
 
-  #### <div style="text-align: justify"> 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar. </div>
+  #### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar. 
    <div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div>
   
 
