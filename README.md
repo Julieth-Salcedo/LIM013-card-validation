@@ -12,7 +12,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 
 ### Resumen del proyecto
-<div style="text-align: justify">Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros de tecnología.</div>
+<div style="text-align: justify">Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros sobre tecnología.</div><br>
 
 [Planning del proyecto](https://trello.com/b/EwSvpk9O/lim013-card-validation)
 
@@ -54,7 +54,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 * <div style="text-align: justify">Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente. </div>
 
-* [Metodología de UX: Diagrama de flujo](src\documents\LIM013-card-validation-diagrama-de-flujo.pdf)
+* [Metodología de UX: Diagrama de flujo](src\documents\LIM013-card-validation-diagrama-de-flujo.pdf)<br>
 
 
 #### 5. Imagen del prototipo final
