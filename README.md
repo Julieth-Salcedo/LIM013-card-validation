@@ -1,5 +1,5 @@
 
-## MyBook [ Catálogo de libros de tecnología]
+## MyBook [ Plataforma de libros sobre tecnología]
 
 
 ### Título del proyecto
@@ -55,7 +55,6 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 * <div style="text-align: justify">Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente. </div>
 
 * [Metodología de UX: Diagrama de flujo](src\documents\LIM013-card-validation-diagrama-de-flujo.pdf)
-
 
 
 #### 5. Imagen del prototipo final
