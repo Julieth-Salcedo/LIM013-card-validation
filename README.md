@@ -1,5 +1,5 @@
 
-## MyBook [ Plataforma de libros sobre tecnología]
+## MyBook [Plataforma de libros sobre tecnología]
 
 
 ### Título del proyecto
@@ -29,11 +29,11 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 #### 3. Primer prototipo en papel
 
-[Primer prototipo en papel](src\documents\LIM013-card-validation-prototipo-papel.pdf)
+[Primer prototipo en papel](documents\LIM013-card-validation-prototipo-papel.pdf)
 
 #### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar
-<div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div><br>
-  
+<div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div>
+<br>  
 
 *__Paleta de colores:__*
 
@@ -41,7 +41,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 <div style="text-align: justify">Acción: elaboración de una guía de estilo donde se define paletas de colores, tipografía y estilo de los botones antes de iniciar el diseño de interfaz de usuario</div><br>
 
-[Sistema de diseño UX: Guia de estilo](src\documents\LIM013-card-validation-guia-de-estilos.pdf)
+[Sistema de diseño UX: Guia de estilo](documents\LIM013-card-validation-guia-de-estilos.pdf)
 <br>
 
 *__Mensaje de error__*
@@ -50,9 +50,10 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 <div style="text-align: justify">Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente.</div><br>
 
-[Metodología de UX: Diagrama de flujo](src\documents\LIM013-card-validation-diagrama-de-flujo.pdf)
+[Metodología de UX: Diagrama de flujo](documents\LIM013-card-validation-diagrama-de-flujo.pdf)
+<br>
 
 #### 5. Imagen del prototipo final
-[Imagen del prototipo final](src\documents\LIM013-card-validation-prototipo-figma.pdf)   
+[Imagen del prototipo final](documents\LIM013-card-validation-prototipo-figma.pdf)   
 
 
