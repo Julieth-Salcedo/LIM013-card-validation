@@ -12,43 +12,43 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 
 ### Resumen del proyecto
-<div style="text-align: justify">Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros sobre tecnología.</div>
+<div style="text-align: justify">Es una aplicación que permitirá al usuario suscribirse ingresando su tarjeta de crédito y disfrutar un periodo de prueba gratis del catalogo ilimitado de libros sobre tecnología.</div>  
 
-[x] [Planning del proyecto en Trello](https://trello.com/b/EwSvpk9O/lim013-card-validation)
+[x] [Planning del proyecto en Trello](https://trello.com/b/EwSvpk9O/lim013-card-validation)  
 
-### Investigación UX
+### Investigación UX  
 
 #### 1. Explicar quiénes son los usuarios y los objetivos en relación con el producto. 
   
-<div style="text-align: justify"> Los usuarios son mujeres como nosotras, que son parte de Laboratoria u otro pograma de educación que establece una cultura de autoaprendizaje, donde se busca recursos, libros y cuanto material de calidad nos ayude a lograr precisamente aquellos objetivos de aprendizaje que nos planteamos para lograr nuestro desarrollo profesional como programadoras. </div>
+<div style="text-align: justify"> Los usuarios son mujeres como nosotras, que son parte de Laboratoria u otro pograma de educación que establece una cultura de autoaprendizaje, donde se busca recursos, libros y cuanto material de calidad nos ayude a lograr precisamente aquellos objetivos de aprendizaje que nos planteamos para lograr nuestro desarrollo profesional como programadoras. </div>  
 
-  
-#### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios. 
+#### 2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.  
 
 <div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div>
 
-#### 3. Primer prototipo en papel
 
-[x] [Primer prototipo en papel](src/documents\LIM013-card-validation-prototipo-papel.pdf)
+#### 3. Primer prototipo en papel  
+
+[X] [Primer prototipo en papel](src/documents\LIM013-card-validation-prototipo-papel.pdf)  
 
 #### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar
-<div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div><br>
+<div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div><br>  
 
 >*__Paleta de colores:__*
 
-<div style="text-align: justify"> Definir una paleta de colores que serán parte de la guía de estilo. La elección de un color destacado más una gama de colores neutros. Lo que permite que nuestros botones, o la llamada de acción con un color destacado sea visible a primera vista y llame justamente a la acción, que sean otras palabras intuitivos. </div>
+<div style="text-align: justify"> Definir una paleta de colores que serán parte de la guía de estilo. La elección de un color destacado más una gama de colores neutros. Lo que permite que nuestros botones, o la llamada de acción con un color destacado sea visible a primera vista y llame justamente a la acción, que sean otras palabras intuitivos. </div>  
 
-<div style="text-align: justify">_Acción: elaboración de una guía de estilo donde se define paletas de colores, tipografía y estilo de los botones antes de iniciar el diseño de interfaz de usuario_</div>
+<div style="text-align: justify">Acción: elaboración de una guía de estilo donde se define paletas de colores, tipografía y estilo de los botones antes de iniciar el diseño de interfaz de usuario</div>  
 
-[x] [Sistema de diseño UX: Guia de estilo](src/documents\LIM013-card-validation-guia-de-estilos.pdf)<br>
+[X] [Sistema de diseño UX: Guia de estilo](src/documents\LIM013-card-validation-guia-de-estilos.pdf)<br>
 
 >*__Mensaje de error__*
 
-<div style="text-align: justify"> Explicar claramente al usuario por medio de un mensaje de error el porque se produjó un problema o error, ya sea en cuanto a ingresar un campo vacio en el espacio para ingresar el numero de tarjeta o cuando una tarjeta se declara invalida, es correcto explicar que ocurre, cual es el error y pasos para su solución.</div>
+<div style="text-align: justify"> Explicar claramente al usuario por medio de un mensaje de error el porque se produjó un problema o error, ya sea en cuanto a ingresar un campo vacio en el espacio para ingresar el numero de tarjeta o cuando una tarjeta se declara invalida, es correcto explicar que ocurre, cual es el error y pasos para su solución.</div>  
 
-<div style="text-align: justify">_Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente._</div>
+<div style="text-align: justify">_Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente._</div>  
 
-[x] [Metodología de UX: Diagrama de flujo](src/documents\LIM013-card-validation-diagrama-de-flujo.pdf)
+[X] [Metodología de UX: Diagrama de flujo](src/documents\LIM013-card-validation-diagrama-de-flujo.pdf)  
 
 #### 5. Imagen del prototipo final
 [x] [Imagen del prototipo final](src/documents\LIM013-card-validation-prototipo-figma.pdf)   
