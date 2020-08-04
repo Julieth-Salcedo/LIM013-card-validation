@@ -45,7 +45,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 [  ] *__Mensaje de error__*
 
-_<div style="text-align: justify"> Explicar claramente al usuario por medio de un mensaje de error el porque se produjó un problema o error, ya sea en cuanto a ingresar un campo vacio en el espacio para ingresar el numero de tarjeta o cuando una tarjeta se declara invalida, es correcto explicar que ocurre, cual es el error y pasos para su solucion. 
+<div style="text-align: justify"> Explicar claramente al usuario por medio de un mensaje de error el porque se produjó un problema o error, ya sea en cuanto a ingresar un campo vacio en el espacio para ingresar el numero de tarjeta o cuando una tarjeta se declara invalida, es correcto explicar que ocurre, cual es el error y pasos para su solucion. 
 
 * <div style="text-align: justify">Acción: Utilizar un color que destaque el mensaje de error, explicar el error con claridad la su solución, asi evitamos que el usuario abandone nuestra plataforma antes de completar la suscripcion y se convierta en nuestro cliente. </div>
 
