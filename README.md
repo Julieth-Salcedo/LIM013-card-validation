@@ -29,7 +29,7 @@ Al ingresar los números de la tarjeta, éstos serán validados según el algori
 
 #### 3. Primer prototipo en papel
 
-[Primer prototipo en papel](documents\LIM013-card-validation-prototipo-papel.pdf)
+[Primer prototipo en papel](src/documents\LIM013-card-validation-prototipo-papel.pdf)
 
 #### 4. Agregar un resumen del feedback recibido indicando las mejoras a realizar
 <div style="text-align: justify"> La plataforma consta de libros de tecnología, para ser más exactos, de libros y recursos sobre desarrollo web que cubre 4 grandes temas: diseño de experiencia de usuario (UX), diseño de interfaz de usuario (UI), HTML y CSS, Javascript y DOM; temas que son parte de nuestros objetivos de aprendizaje en nuestro desarrollo profesional, los cuales podemos encontrar de forma enlistada y compilada de manera fácil y sobre que consta de libros y recursos que han sido de utilidad a programador@s y son altamente recomendados.</div><br>
